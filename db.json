@@ -34,7 +34,198 @@
             "color": "Black",
             "power": "93",
             "docs": true,
-            "image": "https://frankfurt.apollo.olxcdn.com/v1/files/nw15vl5qc2wn2-UZ/image"
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
+        },
+        "2": {
+            "brand": "Apple",
+            "model": "iPhone 11",
+            "price": "$220",
+            "ram": 128,
+            "color": "White",
+            "power": "90",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+        },
+        "3": {
+            "brand": "Apple",
+            "model": "iPhone 12",
+            "price": "$300",
+            "ram": 128,
+            "color": "Blue",
+            "power": "95",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+        },
+        "4": {
+            "brand": "Samsung",
+            "model": "Galaxy S10",
+            "price": "$180",
+            "ram": 128,
+            "color": "Black",
+            "power": "89",
+            "docs": false,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10.jpg"
+        },
+        "5": {
+            "brand": "Samsung",
+            "model": "Galaxy S20",
+            "price": "$280",
+            "ram": 128,
+            "color": "Gray",
+            "power": "94",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20.jpg"
+        },
+        "6": {
+            "brand": "Samsung",
+            "model": "Galaxy A52",
+            "price": "$210",
+            "ram": 128,
+            "color": "Blue",
+            "power": "88",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a52-5g.jpg"
+        },
+        "7": {
+            "brand": "Xiaomi",
+            "model": "Redmi Note 10",
+            "price": "$160",
+            "ram": 128,
+            "color": "Green",
+            "power": "85",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10.jpg"
+        },
+        "8": {
+            "brand": "Xiaomi",
+            "model": "Redmi Note 11",
+            "price": "$190",
+            "ram": 128,
+            "color": "Gray",
+            "power": "87",
+            "docs": false,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11.jpg"
+        },
+        "9": {
+            "brand": "Xiaomi",
+            "model": "Mi 11",
+            "price": "$320",
+            "ram": 256,
+            "color": "Black",
+            "power": "96",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11.jpg"
+        },
+        "10": {
+            "brand": "Huawei",
+            "model": "P30 Pro",
+            "price": "$250",
+            "ram": 128,
+            "color": "Aurora",
+            "power": "91",
+            "docs": false,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p30-pro.jpg"
+        },
+        "11": {
+            "brand": "Huawei",
+            "model": "P40 Lite",
+            "price": "$200",
+            "ram": 128,
+            "color": "Black",
+            "power": "86",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p40-lite.jpg"
+        },
+        "12": {
+            "brand": "OnePlus",
+            "model": "OnePlus 8",
+            "price": "$270",
+            "ram": 128,
+            "color": "Silver",
+            "power": "92",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8.jpg"
+        },
+        "13": {
+            "brand": "OnePlus",
+            "model": "OnePlus 9",
+            "price": "$350",
+            "ram": 256,
+            "color": "Green",
+            "power": "97",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9.jpg"
+        },
+        "14": {
+            "brand": "Realme",
+            "model": "Realme 8",
+            "price": "$170",
+            "ram": 128,
+            "color": "Black",
+            "power": "84",
+            "docs": false,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-8.jpg"
+        },
+        "15": {
+            "brand": "Realme",
+            "model": "Realme GT",
+            "price": "$300",
+            "ram": 256,
+            "color": "Yellow",
+            "power": "95",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt.jpg"
+        },
+        "16": {
+            "brand": "Oppo",
+            "model": "Oppo Reno 5",
+            "price": "$220",
+            "ram": 128,
+            "color": "Blue",
+            "power": "88",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno5-5g.jpg"
+        },
+        "17": {
+            "brand": "Oppo",
+            "model": "Oppo Find X3",
+            "price": "$400",
+            "ram": 256,
+            "color": "Black",
+            "power": "98",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x3-pro.jpg"
+        },
+        "18": {
+            "brand": "Google",
+            "model": "Pixel 5",
+            "price": "$260",
+            "ram": 128,
+            "color": "Green",
+            "power": "90",
+            "docs": false,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5.jpg"
+        },
+        "19": {
+            "brand": "Google",
+            "model": "Pixel 6",
+            "price": "$340",
+            "ram": 256,
+            "color": "Black",
+            "power": "96",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg"
+        },
+        "20": {
+            "brand": "Motorola",
+            "model": "Moto G Power",
+            "price": "$180",
+            "ram": 128,
+            "color": "Gray",
+            "power": "85",
+            "docs": true,
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-power-2021.jpg"
         }
     }
-}
+
+            }
